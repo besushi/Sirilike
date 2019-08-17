@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySpeech</string>
+    <string name="mic">Press icon to start</string>
+    <string name="needPerm">In your mother, leave me alone.</string>
+    <string name="speak">Your wish is my command</string>
+    <string name="lngNotSupported">Language is not supported</string>
+</resources>
